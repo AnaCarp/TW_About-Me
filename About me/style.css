@@ -1,0 +1,178 @@
+/*sectiunea 1*/
+.sectiunea1{
+   background-color: #ba4ba4cf;
+   padding: 10px 30px 10px 5px;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 30px;
+   color:#400935cf;
+   text-align: center;
+
+ 
+}
+
+/*sectiunea 2*/
+.sectiunea2{
+    background-color: #f784a6bc;
+    padding: 70px 30px 30px 5px;
+    text-align: center;
+    padding:10px 30px 20px 30px;
+
+    
+}
+.sectiunea2 h{
+    font-size: 60px;
+    font-family: 'Sacramento', cursive;
+    font-style:italic;
+    
+}
+.sectiunea2 p{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.poza_profil{
+    border-radius:50%;  /*face un cerc perfect*/
+    max-width:150px;    /*inaltimea maxima*/
+ 
+}
+
+/*sectiunea 3*/
+.sectiunea3{
+    background-color: #f7b59fe8;
+    padding: 10px 120px 20px 120px;
+    text-align: center; 
+}
+.sectiunea3 h{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: -50px;
+    text-align: center; 
+   
+}
+.poza_skills{
+    border-radius:50%;  
+    max-width:70px;   
+}
+
+#p1{
+    float: left;    
+}
+#p2{
+    float:right;
+}
+.sectiunea3 #paragraf1{
+    text-align: left;
+    padding-left:80px;
+    font-size: 25px;
+}
+
+.sectiunea3 #paragraf2{
+    text-align: right;
+    padding-right:80px;
+    font-size: 25px;
+}
+
+
+#ul1{
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    list-style:none;
+    font-size: 19px;
+}
+
+#ul2{
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    list-style:none;
+    font-size: 19px;
+}
+
+/*sectiunea 4*/
+
+.sectiunea4{
+    background-color: #f784a6bc;
+    margin: auto;
+    padding: 10px 120px 20px 120px;
+    text-align: center; 
+   
+}
+
+
+.sectiunea4 h{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    padding-top: 0;
+    text-align: center; 
+   
+}
+
+.button{
+    margin-top: 50px;
+    background-color: #85126e9f;
+    border: solid  #85126e9f;
+    border-radius: 50%;
+    padding: 12px 28px;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+    align-self: center;
+ 
+}
+
+.button:hover{
+    background-color: #6d135bcf;
+    border: solid #6d135bcf;
+}
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+#poza_mail{
+    height: 70px;
+    width:80px;
+  
+    
+}
+ /*sectiunea 5*/ 
+
+ .sectiunea5{
+    background-color: #ba4ba4cf;
+    padding: 8px 30px 10px 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    color:#400935cf;
+    text-align: center;
+
+ 
+  
+ }
+ 
+/*pentru mai multe sectiuni*/
+
+hr{
+    width: 5%;
+    border-style: dotted none none;
+    border-width: 7px;
+    border-color: #6d135bcf;
+    margin: auto;
+}
+
+
+/*
+Fonts:
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Sacramento', cursive;
+font-family: 'Satisfy', cursive;
+*/
