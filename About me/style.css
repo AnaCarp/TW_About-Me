@@ -50,6 +50,7 @@
     margin-left: -50px;
     text-align: center; 
    
+   
 }
 .poza_skills{
     border-radius:50%;  
@@ -58,20 +59,26 @@
 
 #p1{
     float: left;    
+
 }
 #p2{
     float:right;
+    
 }
 .sectiunea3 #paragraf1{
     text-align: left;
     padding-left:80px;
     font-size: 25px;
+    color:#400935cf;
+    font-weight: bold;
 }
 
 .sectiunea3 #paragraf2{
     text-align: right;
     padding-right:80px;
     font-size: 25px;
+    color:#400935cf;
+    font-weight: bold;
 }
 
 
@@ -114,7 +121,7 @@
 
 .button{
     margin-top: 50px;
-    background-color: #85126e9f;
+    background-color: #af0e8f9f;
     border: solid  #85126e9f;
     border-radius: 50%;
     padding: 12px 28px;
@@ -145,7 +152,7 @@ a:link {
 
  .sectiunea5{
     background-color: #ba4ba4cf;
-    padding: 8px 30px 10px 5px;
+    padding: 0px 30px 10px 0px;
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
     font-style: italic;
@@ -156,6 +163,20 @@ a:link {
  
   
  }
+
+ .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
  
 /*pentru mai multe sectiuni*/
 
@@ -166,6 +187,16 @@ hr{
     border-color: #6d135bcf;
     margin: auto;
 }
+
+
+
+
+
+
+  
+  
+
+
 
 
 /*
