@@ -39,7 +39,7 @@
 /*sectiunea 3*/
 .sectiunea3{
     background-color: #f7b59fe8;
-    padding: 10px 120px 20px 120px;
+    padding: 10px 120px 60px 120px;
     text-align: center; 
 }
 .sectiunea3 h{
@@ -55,17 +55,15 @@
 .poza_skills{
     border-radius:50%;  
     max-width:70px;   
+    float: left;   
 }
 
-#p1{
-    float: left;    
-
-}
-#p2{
+#poza2right{
     float:right;
     
 }
-.sectiunea3 #paragraf1{
+
+.paragraph_skills{
     text-align: left;
     padding-left:80px;
     font-size: 25px;
@@ -73,16 +71,10 @@
     font-weight: bold;
 }
 
-.sectiunea3 #paragraf2{
+#paragraf2right{
     text-align: right;
-    padding-right:80px;
-    font-size: 25px;
-    color:#400935cf;
-    font-weight: bold;
 }
-
-
-#ul1{
+.list_left{
     margin: 0;
     padding: 0;
     text-align: left;
@@ -90,13 +82,14 @@
     font-size: 19px;
 }
 
-#ul2{
+.list_right{
     margin: 0;
     padding: 0;
     text-align: right;
     list-style:none;
     font-size: 19px;
 }
+
 
 /*sectiunea 4*/
 
